@@ -11,10 +11,10 @@
   <a href="https://leetcode.com/u/muhammadrasul06/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
   </a>
-</p>
-
-<p align="left">
-  <b>My LeetCode Progress</b>
+  
+  <a href="https://www.linkedin.com/in/muhammadrasulabduhamidov/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
 </p>
 
 ---
@@ -29,12 +29,23 @@
 
 - 📝 Writing articles on  
   https://medium.com/@muhammadrasul_abdulhamidov
-  
+
 - 💬 Ask me about **Flutter**
 
 - 📫 Reach me: **immuhammadrasul@gmail.com**
 
-- ⚡ Fun fact: **I love saying NO**
+---
+
+<h3 align="left">Projects:</h3>
+
+<p align="left">
+
+🚀 View all my projects here:  
+<a href="https://www.linkedin.com/in/muhammadrasulabduhamidov/details/projects/" target="_blank">
+My LinkedIn Projects Portfolio
+</a>
+
+</p>
 
 ---
 
@@ -52,6 +63,10 @@
 
 <a href="https://leetcode.com/u/muhammadrasul06/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammadrasulabduhamidov/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
 </a>
 
 </p>
