@@ -32,7 +32,7 @@
   
 - 💬 Ask me about **Flutter**
 
-- 📫 Reach me: **muhammadrasulcyber@gmail.com**
+- 📫 Reach me: **immuhammadrasul@gmail.com**
 
 - ⚡ Fun fact: **I love saying NO**
 
