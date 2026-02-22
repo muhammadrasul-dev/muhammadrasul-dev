@@ -28,8 +28,8 @@
 - 🤝 Interested in **Open Source**
 
 - 📝 Writing articles on  
-  https://t.me/muhammadrasul_abdu
-
+  https://medium.com/@muhammadrasul_abdulhamidov
+  
 - 💬 Ask me about **Flutter**
 
 - 📫 Reach me: **muhammadrasulcyber@gmail.com**
