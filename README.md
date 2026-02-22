@@ -3,7 +3,7 @@
 <img align="left" width="400" src="https://raw.githubusercontent.com/noname9xndz/noname9xndz/master/dev-coding.gif" alt="my_Code_isnt_working" />
 <p align="left" style="margin-top:20px;"> <img src="https://komarev.com/ghpvc/?username=muhammadrasul-dev&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadrasul-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadrasul-dev" alt="muhammadrasul-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="muhammadrasul-dev" /></a> </p>
 
 <p align="left"> <a href="(https://leetcode.com/u/muhammadrasul06" target="blank"><img src="https://commons.wikimedia.org/wiki/File:LeetCode_Logo_2.png" alt="" /></a>My Leetcode progress</p>
 
