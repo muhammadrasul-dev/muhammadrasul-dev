@@ -46,7 +46,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
 </a>
 
-<a href="https://instagram.com/muhammedrasu1" target="_blank">
+<a href="https://www.instagram.com/muhammadrasul.abdulhamidov/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
 </a>
 
